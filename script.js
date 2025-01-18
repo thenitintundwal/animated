@@ -126,13 +126,13 @@ tl4.from(".caseStudy", {
   duration: 0.8,
 });
 tl4.from(".footerLeft", {
-  x: -200,
+  x: -100,
   opacity: 0,
   duration: 0.8,
 });
 
 tl4.from(".footerRight", {
-  x: 200,
+  x: 100,
   opacity: 0,
   duration: 0.8,
 });
